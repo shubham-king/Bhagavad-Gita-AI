@@ -52,7 +52,7 @@ export default function Home() {
           type="image/png"
           href="https://sanskriti-ai.s3.ap-south-1.amazonaws.com/krishna.png"
         />
-
+        <meta name="google-site-verification" content="QHY3NxxfC3KwO5E5BG1vCj61NHCRnrXzaAI_3THXqtc" />
         <meta
           name="description"
           content="Unlock the wisdom of Krishna with Bhagavad Gita AI and ChatGPT-powered insights. Experience personalized interpretation of the Bhagavad Gita like never before."
